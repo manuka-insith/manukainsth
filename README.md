@@ -20,3 +20,4 @@ eg= hello   = 1 layer
 
    like that it will encrypt your message and that encrypt message encrypt again again. you can decide how many layers do you want.100 000! it is okay.as much as your processing power good you will get instant results.
    it is the special about this so it can't be decrypted by any other normal program. only this program can decrypt it. 
+if you find any erorr please let me know about it and i will try to solve it
